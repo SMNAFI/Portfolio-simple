@@ -1,0 +1,84 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: #1a1a1d;
+}
+
+h1{
+    font-size: 50px;
+    color: #c3073f;
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 35px;
+    color: #eee2dc;
+}
+
+h3{
+    color: #66fcf1;
+}
+
+p{
+    color:#4e4e50;
+    text-align: justify;
+}
+
+section{
+    height: 500px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+}
+
+.text-highlighter {
+    color:aliceblue;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.half-width p{
+    padding-bottom: 10px;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid  #c3073f;
+    border-radius: 30px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #ee94af, #c3073f);
+    border-image-slice: 1;
+}
+
+#front-end{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #d9ebe9,  #27ebde);
+    border-image-slice: 1;
+}
+
+.experience-area p {
+    padding-right: 5%;
+}
+
